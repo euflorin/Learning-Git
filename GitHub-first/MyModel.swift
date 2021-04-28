@@ -7,5 +7,5 @@
 
 import Foundation
 struct myModel{
-    var name:String ="M"
+    var name:String = "M"
 }
